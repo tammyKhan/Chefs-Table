@@ -1,0 +1,56 @@
+[
+  {
+    "recipe_id": 1,
+    "name": "Spicy Chicken",
+    "image": "https://i.ibb.co.com/16WQ0vj/chicken-skewers-with-slices-sweet-peppers-dill.jpg",
+    "description": "A spicy and delicious chicken recipe with bold flavors.",
+    "ingredients": ["550g chicken", "120ml soy sauce", "200g basil leaves", "400g mushrooms"],
+    "preparation_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "name": "Vegetable Stir-Fry",
+    "image": "https://i.ibb.co.com/tQCd0zB/delicious-lobster-gourmet-seafood.jpg",
+    "description": "A healthy and quick vegetable stir-fry with vibrant colors.",
+    "ingredients": ["1 cup broccoli", "1 cup bell peppers", "100g carrots", "50g mushrooms"],
+    "preparation_time": "25 min",
+    "calories": "220 calories"
+  },
+  {
+    "recipe_id": 3,
+    "name": "Classic Beef Stew",
+    "image": "https://i.ibb.co.com/9NyTbGb/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg",
+    "description": "A hearty and comforting beef stew for chilly days.",
+    "ingredients": ["500g beef", "1 onion", "2 carrots", "1 potato", "200ml beef broth"],
+    "preparation_time": "45 min",
+    "calories": "400 calories"
+  },
+  {
+    "recipe_id": 4,
+    "name": "Margarita Pizza",
+    "image": "https://i.ibb.co.com/cttRw7r/side-view-shawarma-with-fried-potatoes-board-cookware.jpg",
+    "description": "A classic Italian pizza topped with tomatoes, basil, and mozzarella.",
+    "ingredients": ["200g pizza dough", "100g mozzarella", "50g tomatoes", "10g basil"],
+    "preparation_time": "15 min",
+    "calories": "270 calories"
+  },
+  {
+    "recipe_id": 5,
+    "name": "Grilled Salmon",
+    "image": "https://i.ibb.co.com/F8TWTXb/top-view-table-full-delicious-food-composition.jpg",
+    "description": "Perfectly grilled salmon with a hint of lemon and herbs.",
+    "ingredients": ["200g salmon", "1 lemon", "2 tbsp olive oil", "1 tbsp fresh dill"],
+    "preparation_time": "20 min",
+    "calories": "300 calories"
+  },
+  {
+    "recipe_id": 6,
+    "name": "Chocolate Brownies",
+    "image": "https://i.ibb.co.com/1byJV01/tasty-burger-isolated-white-background-fresh-hamburger-fastfood-with-beef-cheese.jpg",
+    "description": "Rich and gooey chocolate brownies, a perfect treat.",
+    "ingredients": ["200g dark chocolate", "100g butter", "150g sugar", "2 eggs", "100g flour"],
+    "preparation_time": "40 min",
+    "calories": "450 calories"
+  }
+]
