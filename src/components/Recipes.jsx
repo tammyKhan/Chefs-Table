@@ -45,7 +45,7 @@ const Recipes = ( { addRecipeToQueue } ) => {
       </div>
 
     <div className="card-actions">
-      <button onClick={()=> addRecipeToQueue(recipe) } className="btn bg-green-400 rounded-full px-8 text-xl text-gray-800 mt-6 font-medium">Buy Now</button>
+      <button onClick={()=> addRecipeToQueue(recipe) } className="btn bg-green-400 rounded-full px-8 text-xl text-gray-800 mt-6 font-medium">Want To Cook</button>
     </div>
   </div>
 </div>
