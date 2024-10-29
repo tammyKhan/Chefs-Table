@@ -1,8 +1,8 @@
 
-const Sidebar = () => {
+const Sidebar = ({ recipeQueue }) => {
   return (
     <div className="md:w-1/3">
-      Sidebar
+      Want to Cook:{recipeQueue.length}
     </div>
   );
 };
